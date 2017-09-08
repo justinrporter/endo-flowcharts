@@ -4,7 +4,7 @@ Endo flowcharts contains the flowcharts I made from Dr. Clutter's coursepack. A 
 
 Contributions very welcome!
 
-### Downloading the images
+## Download
 
 #### Option 1: tarball-zip
 
@@ -15,7 +15,7 @@ Contributions very welcome!
 1. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. `git clone git@github.com:justinrporter/endo-flowcharts.git`
 
-### Contributing
+## Contribute
 
 1. Use your github account to [fork the repository](https://help.github.com/articles/fork-a-repo/)
 2. Submit a [pull request](https://help.github.com/articles/about-pull-requests/).
