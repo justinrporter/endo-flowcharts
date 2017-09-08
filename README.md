@@ -8,9 +8,9 @@ Contributions very welcome!
 
 #### Option 1: tarball-zip
 
-1. [Download this](https://github.com/justinrporter/endo-flowcharts/archive/master.tar.gz)
+1. [Download this tarball-zip](https://github.com/justinrporter/endo-flowcharts/archive/master.tar.gz)
 
 #### Option 2: Clone the repository
 
-1. Install git
+1. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. `git clone git@github.com:justinrporter/endo-flowcharts.git`
